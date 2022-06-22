@@ -1,6 +1,6 @@
 {
-    "name": "git-extension-pack",
-    "displayName": "Git Extension Pack",
+    "name": "git-module",
+    "displayName": "Git Module",
     "description": "Collection of Git extensions only",
     "version": "0.0.1",
     "publisher": "Maruf",

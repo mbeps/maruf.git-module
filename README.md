@@ -1,2 +1,2 @@
-# Back-End Module
-Contains extensions for Back-End development. This extension can be used as profiles; for example, if Back-End development is needed, then this can be enabled which will also enable all the extension related to it in bulk. 
+# Git Module
+Contains extensions for Git. This extension can be used as profiles; for example, if Git development is needed, then this can be enabled which will also enable all the extension related to it in bulk. 

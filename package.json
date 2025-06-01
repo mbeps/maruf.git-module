@@ -2,7 +2,7 @@
     "name": "git-module",
     "displayName": "Git Module",
     "description": "Collection of Git extensions only",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "Maruf",
     "repository": "https://github.com/mbeps/maruf.github-module",
     "engines": {
@@ -11,10 +11,10 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
+    "extensionPack": [
         "codezombiech.gitignore",
-		"donjayamanne.githistory",
-		"eamodio.gitlens",
-		"mhutchie.git-graph"
+        "donjayamanne.githistory",
+        "maattdd.gitless",
+        "mhutchie.git-graph"
     ]
 }
